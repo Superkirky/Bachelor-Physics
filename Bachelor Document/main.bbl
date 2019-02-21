@@ -1,0 +1,37 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abramzon and Siegel(1999)]{helium-wavelength}
+Nina Abramzon and P.B. Siegel.
+\newblock Introductory helium atomic spectrum analysis.
+\newblock \emph{American Journal of Physics}, 77, 1999.
+
+\bibitem[Born(2014)]{helium}
+Richard Born.
+\newblock A quantitative investigation of the helium spectrum.
+\newblock Technical report, Northern Illinois University, 2014.
+
+\bibitem[Kjeldsen et~al.(1999)Kjeldsen, Bedding, and
+  Christensen-Dalsgaard]{Mons}
+Hans Kjeldsen, T.~R. Bedding, and J.~Christensen-Dalsgaard.
+\newblock Mons - measuring osciallations in nearby stars, 1999.
+
+\bibitem[Sarda et~al.(2014)Sarda, Grant, Chaumont, Choi, Johnston-Lemke, and
+  Zee]{brite}
+Karan Sarda, Cordell Grant, Monica Chaumont, Seung~Yun Choi, Bryan
+  Johnston-Lemke, and Robert~E. Zee.
+\newblock On-orbit performance of the bright target explorer (brite)
+  nanosatellite astronomy constellation.
+\newblock Space Flight Laboratory, University of Toronto Institute for
+  Aerospace Studies, 2014.
+
+\bibitem[Wertz and Larson(1999)]{smad}
+James~R. Wertz and Wiley~J. Larson.
+\newblock \emph{Space Mission Analysis and Design}.
+\newblock Springer Netherlands, 1999.
+
+\end{thebibliography}

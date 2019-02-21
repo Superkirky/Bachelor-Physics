@@ -1,0 +1,23 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Observations In Space}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{The Space Mission Life Cycle and Architecture}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Nanosatellites - Cubesats}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Photometry}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.5}{Spectroscopy}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.5.1}{Ocean Optics USB4000 Spectrograph}{section.2.5}% 8
+\BOOKMARK [0][-]{chapter.3}{Development and Setup of Experiments}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Initial Development}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.1.1}{Calibration of the USB4000 Spectrograph}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.2}{Helium Spectrum}{section.3.1}% 12
+\BOOKMARK [1][-]{section.3.2}{First Experiment- Stationary Measurements}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.3}{Second Experiment - Simulated Pointing}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.4}{Third Experiment - Temperature Dependence}{chapter.3}% 15
+\BOOKMARK [0][-]{chapter.4}{Results}{}% 16
+\BOOKMARK [1][-]{section.4.1}{General method of data processing}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.2}{First Experiment - Stationary Measurements}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.3}{Second Experiment - Simulated Pointing via Vibrations}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.4}{Third Experiment - Temperature Variations}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{Discussion}{}% 21
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 22
+\BOOKMARK [0][-]{section*.25}{Bibliography}{}% 23
