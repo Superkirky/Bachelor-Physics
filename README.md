@@ -1,3 +1,3 @@
-# Bachelor-Physics
-Work Done at Aarhus University
+# Bachelors Degree in Physics
+Work done at Aarhus University.
 
